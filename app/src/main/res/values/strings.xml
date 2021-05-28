@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Chat</string>
+    <string name="Type">Type Here</string>
+    <string name="Send">Send</string>
+    <string name="app_description">Description\n\nEZYelp connects people with great local businesses. It provides a one-stop local platform for consumers to discover, connect and donate to local businesses
+    </string>
+
+</resources>

@@ -1,0 +1,2 @@
+rootProject.name = "CommTwoActivities"
+include ':app'
